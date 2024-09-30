@@ -1,5 +1,5 @@
 <article>
-  <h3>Hello there, I'm Yurik</h3>
+  <h3>Hello</h3>
   <h4>Not developer from Russia</h4>
   <a href="https://www.codewars.com/users/FrostFree">
      <img title="CodeWars Profile"
